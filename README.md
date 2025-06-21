@@ -2,7 +2,7 @@
 Reverse chronological summary of my >2 years of research as a data scientist / machine learning engineer:
 
 ## Table of Contents:
-| Project | Folder | Core Technologies (not all shown due to release approval) |
+| Project | Folder | Core Technologies (some unshown due to release restrictions)* |
 |---------|-------------------|------------------|
 | **1. ORNL GDM – Power-Outage Prediction** | [`Graduate/Power_Outage_Prediction/`](Graduate/Power_Outage_Prediction/) | TensorFlow, Python, PostgreSQL |
 | **2. ORNL GeoAI – LULC Segmentation** | [`Graduate/Land_Use_Classification/`](Graduate/Land_Use_Classification/) | PyTorch, Python, QGIS |
@@ -20,9 +20,9 @@ Reverse chronological summary of my >2 years of research as a data scientist / m
 
 ### Improved ORNL's land use classification capabilities (September 2024 - May 2025).
 - Curated a satellite imagery dataset then developed several land use/land cover segmentation models, differing by deep learning architecture, channels, and pre-training.
-- Overall, improved inference speed by ~1,000x and granularity by >4,000x while maintaining high accuracy standards.
+- Overall, improved inference speed by ~1,000x and granularity by >4,000x while maintaining high performance (0.86 accuracy, 0.58 mIoU).
 - Tested the efficacy of few-shot learning for teaching new classes to our models for fast, critical adaptation tasks.
-- A summary poster follows: ![LU/LC Segmentation Poster](Graduate/Land_Use_Classification/Poster.png)
+- A summary poster follows: ![Segmentation Results Poster](Graduate/Land_Use_Classification/Poster.png)
 
 ## University of Tennessee, Knoxville - Agricultural & Resource Economics Department
 
