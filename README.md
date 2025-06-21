@@ -2,13 +2,13 @@
 Reverse chronological summary of my >2 years of research as a data scientist / machine learning engineer:
 
 ## Table of Contents:
-| Project | Folder | Core Tech (some unshown due to release restrictions) |
+| Project | Folder | Core Tech (some release-restricted) |
 |---------|-------------------|------------------|
 | **1. ORNL GDM – Power-Outage Prediction** | [`Graduate/Power_Outage_Prediction/`](Graduate/Power_Outage_Prediction/) | TensorFlow, Python, PostgreSQL |
-| **2. ORNL GeoAI – LULC Segmentation** | [`Graduate/Land_Use_Classification/`](Graduate/Land_Use_Classification/) | PyTorch, Python, QGIS |
+| **2. ORNL GeoAI – Land-Use Segmentation** | [`Graduate/Land_Use_Classification/`](Graduate/Land_Use_Classification/) | PyTorch, Python, QGIS |
 | **3. UTK – Land-Use Dynamics** | [`Undergraduate/Land_Cover/`](Undergraduate/Land_Cover/) | Python, Alteryx, Tableau |
 | **4. UTK - TN Ag Dashboard** | [`Undergraduate/Dashboard/`](Undergraduate/Dashboard/) | Tableau, Python |
-| **5. UTK - Farmland** | [`Undergraduate/Farmland_Pricing/`](Undergraduate/Farmland_Pricing/) | Python |
+| **5. UTK - Farmland Cost** | [`Undergraduate/Farmland_Pricing/`](Undergraduate/Farmland_Pricing/) | Python |
 
 ## Oak Ridge National Laboratory - Geospatial Data Modeling Group
 
@@ -27,13 +27,13 @@ Reverse chronological summary of my >2 years of research as a data scientist / m
 ## University of Tennessee, Knoxville - Agricultural & Resource Economics Department
 
 ### Led research on US land use dynamics (April 2023 - August 2024).
-- Sourced, cleaned, analyzed, visualized, and modeled data for research on the trends of US land cover by use, and its effects, including the novel implementation of a SUR model to investigate the interaction of land use types along with socioeconomic and public policy exogenous variables. Culminated in a first author paper (under review)
+- Sourced, cleaned, analyzed, visualized, and modeled data to investigate the trends of US land use, and its effects, including the novel implementation of a SUR model to investigate the interaction of land use types (including exogenous factors). Culminated in a first author paper (under review).
 - One major finding follows:
 > We found that the acreage of each given land cover type (of cropland, pasture, forest, hay, developed open land, and developed non-open land) can predict with statistical significance the acreage of most other land cover types. Most notably from the interactions of different land cover types, the equations for cropland and forest suggest a major difference between the presence of open (very low density) and non-open developed land, with the presence of open developed land predicting a large increase in cropland and forest acreage within a given county, and with non-open development predicting a large decrease of the same, all else equal. We also find significant predictability from median income, the number of households within a county, and year fixed effects (all as controls), but most interestingly from Tennessee Agricultural Enhancement Program investment, a cost-share initiative. For each additional $1,000 USD in TAEP investment, a given county is expected to have 86 more acres of cropland, 127 more acres of pasture, and 27 more acres of hay, with 60 less acres of forest, seven less acres of open development, and four less acres of non-open development, all else equal.
 
-### Developed a farmer-facing dashboard to democratize resources (June 2024 - August 2024).
+### Developed a farmer-facing dashboard to democratize informational resources (June 2024 - August 2024).
 - Built for the TN Department of Agriculture to make production trends, trial results, and checkoff and trial center locations accessible to corn, soy, and livestock producers.
-- Some of my farmer-facing visualizations are on [Tableau](https://public.tableau.com/app/profile/benjamin.koob/vizzes).
+- Some of these farmer-facing visualizations are on [Tableau](https://public.tableau.com/app/profile/benjamin.koob/vizzes).
 
 ### Started research on farmland pricing behavior (September 2023 - February 2024).
 - Created automations for data extraction, developed regression models, and investigated theorized pricing interactions for high-acreage parcels.
