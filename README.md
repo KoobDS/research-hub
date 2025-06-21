@@ -13,7 +13,7 @@ Reverse chronological summary of my >2 years of research as a data scientist / m
 - Curated a satellite imagery dataset then developed several land use/land cover segmentation models, differing by deep learning architecture, channels, and pre-training.
 - Overall, improved inference speed by ~1,000x and granularity by >4,000x while maintaining high accuracy standards.
 - Tested the efficacy of few-shot learning for teaching new classes to our models for fast, critical adaptation tasks.
-- A summary poster follows: <>
+- A summary poster follows: ![LU/LC Segmentation Poster](Graduate/Land_Use_Classification/Poster.pdf)
 
 ## University of Tennessee, Knoxville - Agricultural & Resource Economics Dept. (April 2023 - August 2024)
 
