@@ -13,8 +13,8 @@ Reverse chronological summary of my >2 years of research as a data scientist / m
 ## Oak Ridge National Laboratory - Geospatial Data Modeling Group
 
 ### Improving US power outage prediction and response (May 2025 - Present).
-- Demonstrated the strength of clustering power outage events to better understand scope and duration tendencies (writing manuscript).
-- Developing prediction models considerate of outage clusters for improved Department of Energy forecasting, risk assessment, and response.
+- Developed a method for categorizing extreme energy outage events to improve grid resilience using unsupervised learning. Wrote a manuscript as first-auther (under internal review).
+- Developing an integrated pipeline using outage clusters and deep learning-based prediction methods for improved Department of Energy forecasting, risk assessment, and response.
   
 ## Oak Ridge National Laboratory - GeoAI Group
 
