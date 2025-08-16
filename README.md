@@ -1,5 +1,5 @@
 # My Research
-Reverse chronological summary of my 2+ years of research as a data scientist / machine learning engineer:
+Reverse chronological summary of my 2.5 years of research as a data scientist / machine learning engineer:
 
 ## Table of Contents:
 | Project | Folder | Core Tech (some release-restricted) |
