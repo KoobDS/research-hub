@@ -4,7 +4,7 @@ Reverse chronological summary of my 2.5 years of research as a data scientist / 
 ## Table of Contents:
 | Project | Folder | Core Tech (some release-restricted) |
 |---------|-------------------|------------------|
-| **1. ORNL GDM – Power-Outage Prediction** | [`Graduate/Power_Outage_Prediction/`](Graduate/Power_Outage_Prediction/) | TensorFlow, Python, PostgreSQL |
+| **1. ORNL GDM – Power-Outage Prediction** | [`Graduate/Power_Outage_Prediction/`](Graduate/Power_Outage_Prediction/) | PyTorch, TensorFlow, Python, PostgreSQL |
 | **2. ORNL GeoAI – Land-Use Segmentation** | [`Graduate/Land_Use_Classification/`](Graduate/Land_Use_Classification/) | PyTorch, Python, QGIS |
 | **3. UTK – Land-Use Dynamics** | [`Undergraduate/Land_Cover/`](Undergraduate/Land_Cover/) | Python, Alteryx, Tableau |
 | **4. UTK - TN Ag Dashboard** | [`Undergraduate/Dashboard/`](Undergraduate/Dashboard/) | Tableau, Python |
@@ -12,9 +12,9 @@ Reverse chronological summary of my 2.5 years of research as a data scientist / 
 
 ## Oak Ridge National Laboratory - Geospatial Data Modeling Group
 
-### Improving US power outage prediction and response (May 2025 - Present).
+### Improving US power outage prediction and response (May 2025 - Aug 2025).
 - Developed a method for categorizing extreme energy outage events to improve grid resilience using unsupervised learning (first-author manuscript in review; invention disclosure filed).
-- Developing an integrated pipeline using outage clusters and deep learning-based prediction methods for improved Department of Energy forecasting, risk assessment, and response.
+- Developed an integrated pipeline using outage clusters and deep learning-based prediction methods for improved Department of Energy forecasting, risk assessment, and response.
   
 ## Oak Ridge National Laboratory - GeoAI Group
 
